@@ -1,0 +1,28 @@
+﻿  Demo.cpp
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(76): warning C4101: 'after': unreferenced local variable
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(227): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(387): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(388): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(429): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(430): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(513): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(514): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(548): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(549): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asuspc\documents\visual studio 2015\projects\sabilman3\pemogramang_sabilman\pemogramang_sabilman\demo.cpp(543): warning C4060: switch statement contains no 'case' or 'default' labels
+  PemogramanG_Sabilman.vcxproj -> C:\Users\asuspc\Documents\Visual Studio 2015\Projects\Sabilman3\PemogramanG_Sabilman\Debug\PemogramanG_Sabilman.exe
+  PemogramanG_Sabilman.vcxproj -> C:\Users\asuspc\Documents\Visual Studio 2015\Projects\Sabilman3\PemogramanG_Sabilman\Debug\PemogramanG_Sabilman.pdb (Partial PDB)
